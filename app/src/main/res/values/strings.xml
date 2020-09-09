@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CoffeeShop</string>
+    <string name="rating_text">Rating: %1$s /5</string>
+    <string name="votes_text">Votes: %1$s</string>
+    <string name="check_more_detail">Check more detail ...</string>
+    <string name="hello_1_s">Hello , %1$s \n%2$s</string>
+    <string name="email_id">Email Id</string>
+    <string name="name">Name</string>
+    <string name="register_for_an_update">Register for An Update</string>
+    <string name="email_name_invalid">Email or Name is Invalid</string>
+    <string name="reg_suc_msg">Thanks you for Registering</string>
+
+</resources>

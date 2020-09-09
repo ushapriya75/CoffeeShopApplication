@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3895D3</color>
+    <color name="colorPrimaryDark">#3895D3</color>
+    <color name="colorAccent">#FFF</color>
+    <color name="ratingbar">#04B307</color>
+</resources>
+
